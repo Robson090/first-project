@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: rgb(106, 167, 181);
+  margin: 45px;
+}
+
+img {
+  width: 40%;
+  height: 40%;
+}
+
+h1 {
+  font-family: "Fira Sans", sans-serif;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  margin: 12px ;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  text-align: center;
+  color: rgb(48, 48, 48);
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(0, 213, 255);
+}
+
+#challenge {
+  color: rgb(54, 54, 54);
+  font-weight: bold;
+  font-size: 20px;
+}
